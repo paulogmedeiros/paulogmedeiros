@@ -63,3 +63,8 @@ Back End Developer | Bolsista de desenvolvimento Web \
 [**Findes**](https://www.findes.com.br/) • ago de 2023 - o momento • Contrato \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `NestJs`, `Java`,`React - vite`, `Figma`, `Github`, `Azure`, \
 <br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulogmedeiros/paulogmedeiros/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulogmedeiros/paulogmedeiros/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulogmedeiros/paulogmedeiros/output/github-contribution-grid-snake.svg">
+</picture>
